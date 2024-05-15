@@ -1,2 +1,3 @@
 # PythonTraining
-Python in 15 days
+Training Repo for "Python in 15 days"
+
