@@ -1,5 +1,3 @@
-from ast import arg
-from ssl import Options
 import sys
 import getopt
 
