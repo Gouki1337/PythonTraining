@@ -1,4 +1,3 @@
-from ctypes import sizeof
 import string
 
 def isPangram(input):
